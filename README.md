@@ -1,1 +1,1 @@
-# node-waether-api
+# node-weather-api
